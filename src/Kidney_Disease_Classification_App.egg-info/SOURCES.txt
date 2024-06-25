@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/Kidney-Disease-Classification-App/__init__.py
+src/Kidney-Disease-Classification-App/components/__init__.py
+src/Kidney-Disease-Classification-App/config/__init__.py
+src/Kidney-Disease-Classification-App/constants/__init__.py
+src/Kidney-Disease-Classification-App/entity/__init__.py
+src/Kidney-Disease-Classification-App/utils/__init__.py
+src/Kidney_Disease_Classification_App.egg-info/PKG-INFO
+src/Kidney_Disease_Classification_App.egg-info/SOURCES.txt
+src/Kidney_Disease_Classification_App.egg-info/dependency_links.txt
+src/Kidney_Disease_Classification_App.egg-info/top_level.txt

@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: Kidney-Disease-Classification-App
+Version: 0.0.0
+Summary: This repository holds all the project files belongs to a Kidney diesease classification application which takes x-rays images and classify the image as dieseased or healthy by using Deep learning CNN classification techniques.
+Home-page: https://github.com/premkumar246/End-to-End-Kidney-Disease-Classification.git
+Author: premkumar246
+Project-URL: Bug Tracker, https://github.com/premkumar246/End-to-End-Kidney-Disease-Classification.git
+Description-Content-Type: text/markdown
+
 # End-to-End-Kidney-Disease-Classification-Application
 This repository holds all the project files belongs to a Kidney diesease classification application which takes x-rays images and classify the image as dieseased or healthy by using Deep learning CNN classification techniques.
 
@@ -29,4 +38,4 @@ git clone <htts url of your git url>
 code .
 ```
 ### Step 02 | Project Template Creation 
-1. Create the project template b
+
