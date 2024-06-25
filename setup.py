@@ -7,7 +7,7 @@ __version__ ="0.0.0"
 
 REPO_NAME = "End-to-End-Kidney-Disease-Classification"
 AUTHOR_USER_NAME = "premkumar246"
-SRC_REPO = "Kidney-Disease-Classification-App"
+SRC_REPO = "Kidney_Disease_Classification_App"
 AUTHOR_EMAIL = "sanamalapremkumar@gmail.com"
 
 setuptools.setup(
