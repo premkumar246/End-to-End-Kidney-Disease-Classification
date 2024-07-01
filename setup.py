@@ -19,9 +19,7 @@ setuptools.setup(
     long_description= long_description, 
     long_description_content_type= "text/markdown",
     url = f"https://github.com/premkumar246/End-to-End-Kidney-Disease-Classification.git", 
-    project_urls = {
-        "Bug Tracker" : f"https://github.com/premkumar246/End-to-End-Kidney-Disease-Classification.git"
-    }, 
+    project_urls = {"Bug Tracker" : f"https://github.com/premkumar246/End-to-End-Kidney-Disease-Classification.git"}, 
     package_dir={ "":"src"}, 
     packages=setuptools.find_packages(where="src")
 
